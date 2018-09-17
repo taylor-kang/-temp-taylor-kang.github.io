@@ -2,173 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f899bdae-13e3-4a4b-8717-2b433fa6b346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/profile.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/page_divider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/archive.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy2.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy3.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy4.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy5.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy6.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_grid-settings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_lists.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_tables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/_bourbon-deprecated-upcoming.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/_bourbon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_border-color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_border-radius.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_border-style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_border-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_ellipsis.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_font-stacks.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_hide-text.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_margin.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_padding.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_position.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_prefixer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_retina-image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_text-inputs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_timing-functions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_triangle.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/addons/_word-wrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_animation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_appearance.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_backface-visibility.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_background-image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_background.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_border-image.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_calc.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_columns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_filter.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_flex-box.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_font-face.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_font-feature-settings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_hidpi-media-query.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_hyphens.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_image-rendering.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_keyframes.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_linear-gradient.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_perspective.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_placeholder.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_radial-gradient.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_selection.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_text-decoration.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_transform.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/css3/_user-select.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_assign-inputs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_contains-falsy.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_contains.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_is-length.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_is-light.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_is-number.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_is-size.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_modular-scale.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-em.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_px-to-rem.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_shade.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_strip-units.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_tint.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_transition-property-name.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/functions/_unpack.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_convert-units.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_directional-values.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_font-source-declaration.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_gradient-positions-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-angle-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-gradient-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-positions-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_linear-side-corner-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-arg-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-gradient-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_radial-positions-parser.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_render-gradients.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_shape-size-stripper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/helpers/_str-to-num.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/settings/_asset-pipeline.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/settings/_prefixer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/bourbon/settings/_px-to-em.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/_neat-helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/_neat.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/functions/_new-breakpoint.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/functions/_private.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_box-sizing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_direction-context.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_display-context.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_fill-parent.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_media.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_omega.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_outer-container.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_pad.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_private.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_row.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_shift.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_span-columns.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_to-deprecate.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/grid/_visual-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/settings/_disable-warnings.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/settings/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/neat/settings/_visual-grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/header_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-36x36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-48x48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/android-icon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/apple-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/ms-icon-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/ms-icon-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/ms-icon-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/instacode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/profile-placeholder.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/circle.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/header_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/header_image.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -227,30 +73,141 @@
     <session id="68345603">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="5" />
+          <entry key="Gemfile" value="1" />
+          <entry key="gif" value="1" />
+          <entry key="html" value="9" />
           <entry key="jpg" value="1" />
-          <entry key="md" value="1" />
-          <entry key="yml" value="1" />
+          <entry key="markdown" value="2" />
+          <entry key="md" value="3" />
+          <entry key="scss" value="3" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
-          <entry key="Image" value="1" />
-          <entry key="Markdown" value="1" />
-          <entry key="YAML" value="1" />
+          <entry key="HTML" value="9" />
+          <entry key="Image" value="2" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="3" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="markdown" value="1" />
+          <entry key="md" value="6" />
+          <entry key="scss" value="32" />
+          <entry key="yml" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="7" />
+          <entry key="SCSS" value="32" />
+          <entry key="YAML" value="83" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-138">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typography.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/base/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/profile-placeholder.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/typography/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="412" column="41" selection-start-line="412" selection-start-column="41" selection-end-line="412" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -260,6 +217,10 @@
       <find>sitemap</find>
       <find>Typogra</find>
       <find>Welcome</find>
+      <find>site map</find>
+      <find>$blue</find>
+      <find>profile-pl</find>
+      <find>typography</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -274,6 +235,10 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_site/tag/welcome/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_sass/base/_variables.scss" />
+        <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown" />
       </list>
     </option>
   </component>
@@ -293,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,11 +266,47 @@
               <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="typography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taylor-kang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taylor-kang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +314,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -336,15 +343,17 @@
       <option name="presentableId" value="Default" />
       <updated>1536824865456</updated>
       <workItem from="1536824867158" duration="3788000" />
-      <workItem from="1536839460422" duration="969000" />
+      <workItem from="1536839460422" duration="2127000" />
+      <workItem from="1537170910550" duration="3089000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4757000" />
+    <option name="totallyTimeSpent" value="9004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21180555" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -358,7 +367,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5053892" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2251497" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -389,30 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6551">
           <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1725">
-            <caret line="115" column="41" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -470,18 +455,93 @@
     <entry file="file://$PROJECT_DIR$/assets/header_image.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/main/css/main.scss" />
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1830">
-          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+        <state relative-caret-position="360">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="481">
+            <caret line="98" column="52" selection-start-line="98" selection-start-column="52" selection-end-line="98" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typography.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/base/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/profile-placeholder.gif">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/typography/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="412" column="41" selection-start-line="412" selection-start-column="41" selection-end-line="412" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-04-18-dummy.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>

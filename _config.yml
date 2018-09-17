@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Taehee Kang's Records
-subtitle: "anything that's part of me"
+title: Taehee Kang's blog
+subtitle: "Hello there! Welcome to my blog🙂"
 email: taehee.taylor.kang@gmail.com
 name: Taehee Taylor Kang
 description: >
@@ -18,7 +18,7 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/main" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://taylor-kang.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
@@ -37,10 +37,7 @@ jekyll-archives:
     - tags
   layout: 'archive'
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
+#    tag: '/tag/:name/'
     category: '/category/:name/'
 
 # Disqus comments
