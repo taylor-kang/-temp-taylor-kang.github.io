@@ -13,3 +13,6 @@ _site/
 .jekyll
 Gemfile
 Gemfile.lock
+
+
+.idea/

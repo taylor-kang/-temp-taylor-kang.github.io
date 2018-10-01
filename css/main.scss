@@ -11,3 +11,51 @@
   "neat/neat",
   "layout"
 ;
+
+
+.page {
+  font-weight: lighter;
+  a {
+    font-weight: normal;
+  }
+
+
+}
+
+.profile-img{
+  >img {
+    border-radius: 50%;
+  }
+}
+
+.profile-name, .profile-desc, .profile-contact {
+  text-align: center;
+  >a {
+    color: #333;
+  }
+}
+
+.resume-header  {
+  display: inline-block;
+  float: left;
+  width: 9em;
+
+}
+
+.resume-desc {
+  display: inline-block;
+  float: left;
+  margin-top: 0px;
+  width: 32em;
+  list-style: none;
+
+  >li {
+    padding-bottom: 3.5em;
+  }
+}
+
+.resume-desc-cert {
+  >li {
+    padding-bottom: 0px;
+  }
+}
