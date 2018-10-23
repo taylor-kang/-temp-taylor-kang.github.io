@@ -352,7 +352,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background: linear-gradient(to right, #d66d75, #e29587);;
 	color: $white;
 	a {
 	  color: $link-color;
