@@ -166,6 +166,9 @@ pre code.hljs {
   ul li.nav-link {
     display: block;
     text-align: right;
+	  font-family: $title-font-family;
+	  font-weight: bold;
+	  font-size: 20px;
     width: 100%;
     padding: 0.25em 0;
     @include media ($tablet) {
@@ -239,10 +242,12 @@ pre code.hljs {
 		.site-header{
 			.title {
 				font-size: modular-scale(6);
+				font-family: $title-font-family;
 			}
 			.subtitle {
 				font-style: italic;
-				font-size: modular-scale(1);
+				font-size: 1.4em;
+				font-family: $title-font-family;
 			}
 		}
 	}
@@ -268,6 +273,7 @@ pre code.hljs {
 		}
 		.post-content {
 			padding: 1em 0;
+
 		}
 		.tags {
 			font-size: 0.9em;
@@ -324,6 +330,15 @@ pre code.hljs {
 		.post-header {
 			padding: 0.5em 1em 1em 1em;
 			text-align: center;
+			.post-title {
+				font-family: $title-font-family;
+
+			}
+		}
+		.post-content {
+			>h2 {
+				font-family: $title-font-family;
+			}
 		}
 		.posts-list {
 			@extend %default-ul;
@@ -370,6 +385,7 @@ pre code.hljs {
 		@include outer-container;
 	}
 	.footer-heading {
+		font-family: $title-font-family;
 
 	}
 	/*

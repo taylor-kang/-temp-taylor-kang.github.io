@@ -27,7 +27,9 @@
     border-radius: 50%;
   }
 }
-
+.profile-name {
+  font-family: $title-font-family;
+}
 .profile-name, .profile-desc, .profile-contact {
   text-align: center;
   >a {
@@ -39,7 +41,7 @@
   display: inline-block;
   float: left;
   width: 9em;
-
+  font-family: $title-font-family;
 }
 
 .resume-desc {
